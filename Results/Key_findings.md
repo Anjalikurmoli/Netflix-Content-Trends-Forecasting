@@ -18,17 +18,17 @@ b) **Content Type**: A histogram plot illustrates the trend of Netflix content r
 
 c) **Top Countries Contributing Most Content**:A bar plot shows the top 10 countries that contribute the most Netflix content. The countries are listed in descending order based on their contribution.
 
-- Insight: The plot reveals that the U.S. and other countries play a significant role in Netflix's global content portfolio, with some countries showing emerging contributions.
+- Insight: The plot reveals that the U.S. is the top country along with other countries that play a significant role in Netflix's global content portfolio, with some countries showing emerging contributions.
 [Top Countries Contributing](Top_10_countries_with_most_Netflix_contents.png)
 
 d) **Analyzing the Rating Distribution**:A count plot of Netflix content ratings provides an overview of how content is rated across the platform.
 
-- Insight: The analysis suggests a large variety of content with different ratings, and this information can be useful for content categorization and viewer preference analysis.
+- Insight: The analysis suggests a large variety of content with different ratings with TV-MA being the top-most, and this information can be useful for content categorization and viewer preference analysis.
 [Rating Distribution](Distibution_of_ratings.png)
 
 e) **Monthly Content Additions**:The distribution of Netflix content added each month is analyzed. This is visualized with a count plot that shows how Netflix releases content at different times of the year.
-Insight: This helps to identify trends in content additions, such as peak months for content releases, and can inform future content release strategies.
 
+- Insight: This helps to identify trends in content additions, such as peak months for content releases, and can inform future content release strategies.
 [Monthly Content Additions](path_to_image.png)
 
 ## 2. **Time series forecasting plots**: 
