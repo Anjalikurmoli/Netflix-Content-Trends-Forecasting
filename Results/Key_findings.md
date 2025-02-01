@@ -35,6 +35,6 @@ e) **Monthly Content Additions**:The distribution of Netflix content added each 
 This section includes the forecast results from the time-series analysis:
 
 - **Historical Data Plot**: A line plot showing the number of content added to Netflix over time.
-[Monthly Content Additions](path_to_image.png)
+[Historic Plot](Historical_time_series.png)
 - **Predicted Content Additions**: The forecast of future Netflix content additions over the next few months.
-[Monthly Content Additions](path_to_image.png)
+[Forecast plot](Forecast_plot.png)
