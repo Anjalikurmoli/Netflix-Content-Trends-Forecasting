@@ -4,7 +4,7 @@
 
 This project focuses on analyzing and forecasting Netflix's content growth over time. The objective is to understand the patterns and trends in Netflix content (Movies and TV Shows), examine how the platform's catalog has evolved over the years, and predict future content additions using time-series forecasting.
 
-The dataset for this project is sourced from [Kaggle's Netflix Shows dataset](https://www.kaggle.com/datasets/shubhendra7/netflix-shows) and includes metadata of Netflix's movies and TV shows, including details like release year, content type, rating, country, and more. The analysis includes exploratory data analysis (EDA) along with time-series forecasting to predict the number of content releases in the coming months.
+The dataset for this project is sourced from [Kaggle's Netflix Shows dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data) and includes metadata of Netflix's movies and TV shows, including details like release year, content type, rating, country, and more. The analysis includes exploratory data analysis (EDA) along with time-series forecasting to predict the number of content releases in the coming months.
 
 ## Project Objectives
 
