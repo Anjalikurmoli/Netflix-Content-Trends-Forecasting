@@ -25,7 +25,7 @@ You can explore the detailed results in the `results` folder here: [Results Fold
 
 The dataset used in this project is obtained from Kaggle's Netflix Shows dataset, which includes comprehensive metadata of Netflix's content. You can access the dataset from the following link:
 
-[Kaggle - Netflix Shows Dataset](https://www.kaggle.com/datasets/shubhendra7/netflix-shows)
+[Kaggle - Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
 
 ## Technologies Used
 
