@@ -8,7 +8,7 @@ The following plots provide insights into the Netflix content dataset:
 
 - **Content Distribution**: The distribution of Netflix content is analyzed by type (Movies vs TV Shows). The results show the proportion of Movies and TV Shows available in the dataset. 
 
-- Insight: This helps to understand the overall composition of Netflix content and can provide insight into the platform's focus on one type of content over the other.
+Insight: This helps to understand the overall composition of Netflix content and can provide insight into the platform's focus on one type of content over the other.
 
 [Content Distribution](path_to_image.png) 
 
