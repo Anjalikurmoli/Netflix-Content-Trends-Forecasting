@@ -9,7 +9,7 @@ The following plots provide insights into the Netflix content dataset:
 a) **Content Distribution**: The distribution of Netflix content is analyzed by type (Movies vs TV Shows). The results show the proportion of Movies and TV Shows available in the dataset. 
 Insight: This helps to understand the overall composition of Netflix content and can provide insight into the platform's focus on one type of content over the other. The plots suggests that the movies are the most watched content on Netflix.
 
-[Content Distribution](Results/Distribution_of_Movies_and_Tv_shows.png) 
+[Content Distribution](Distribution_of_Movies_and_Tv_shows.png) 
 
 b) **Content Type**: A histogram plot illustrates the trend of Netflix content releases over the years. This plot highlights the number of content additions each year and provides a sense of the growth of the platform.
 Insight: The analysis shows a steady increase in content releases, especially in recent years. This trend indicates Netflix's rapid expansion in content creation and acquisition.
