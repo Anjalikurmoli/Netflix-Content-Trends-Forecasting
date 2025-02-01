@@ -29,7 +29,7 @@ d) **Analyzing the Rating Distribution**:A count plot of Netflix content ratings
 e) **Monthly Content Additions**:The distribution of Netflix content added each month is analyzed. This is visualized with a count plot that shows how Netflix releases content at different times of the year.
 
 - Insight: This helps to identify trends in content additions, such as peak months for content releases, and can inform future content release strategies.
-[Monthly Content Additions](path_to_image.png)
+[Monthly Content Additions](Netflix_content_added_monthly.png)
 
 ## 2. **Time series forecasting plots**: 
 This section includes the forecast results from the time-series analysis:
