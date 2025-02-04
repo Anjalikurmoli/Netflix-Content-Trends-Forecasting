@@ -19,7 +19,7 @@ The dataset for this project is sourced from [Kaggle's Netflix Shows dataset](ht
 
 The results of the analysis and visualizations are stored in the `results` folder. In this folder, you will find various plots and insights based on the analysis performed, including the distribution of content, trends over the years, country contributions, and the time-series forecasting plot.
 
-You can explore the detailed results in the `results` folder here: [Results Folder](./Results)
+You can explore the detailed results in the `results` folder here: [Key Findings](./Results/Key_findings.md)
 
 ## Data Source
 
